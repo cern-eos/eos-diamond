@@ -1,0 +1,15 @@
+[submodule "xrootd/ofs"]
+	path = xrootd/ofs
+	url = https://github.com/cern-eos/xrootd-diamond-ofs.git
+[submodule "xrootd/oss"]
+	path = xrootd/oss
+	url = https://github.com/joaquimrocha/xrootd-rados-oss.git
+[submodule "ceph/radosfs"]
+	path = ceph/radosfs
+	url = https://github.com/joaquimrocha/radosfs.git
+[submodule "xrootd/authz"]
+	path = xrootd/authz
+	url = https://github.com/joaquimrocha/xrootd-auth-change-uid.git
+[submodule "xrootd/cms"]
+	path = xrootd/cms
+	url = https://github.com/cern-eos/xrootd-diamond-cms.git
