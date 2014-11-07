@@ -4,14 +4,14 @@
 Summary: The EOS Diamond Storage bundle
 Name: eos-diamond
 Version: 1.0
-Release: 1
+Release: 2
 License: GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 Group: Applications/File
 URL: https://github.com/cern-eos/eos-diamond
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root
 BuildArch: noarch 
 
-Requires: radosfs >= 0.4.1
+Requires: radosfs >= 0.5.1
 Requires: xrootd-rados-oss >= 0.1.1
 Requires: xrootd-diamond-ofs >= 0.1.1
 Requires: xrootd-auth-change-uid >= 0.1.0
