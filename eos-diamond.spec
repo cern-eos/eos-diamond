@@ -3,8 +3,8 @@
 %define        __os_install_post %{_dbpath}/brp-compress
 Summary: The EOS Diamond Storage bundle
 Name: eos-diamond
-Version: 1.0
-Release: 3
+Version: 1.1
+Release: 1
 License: GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 Group: Applications/File
 URL: https://github.com/cern-eos/eos-diamond
