@@ -13,8 +13,8 @@ BuildArch: noarch
 
 Requires: radosfs >= 0.5.1
 Requires: radosfs-tools >= 0.5.1
-Requires: xrootd-rados-oss >= 0.1.1
-Requires: xrootd-diamond-ofs >= 0.1.1
+Requires: xrootd-rados-oss >= 0.1.2
+Requires: xrootd-diamond-ofs >= 0.1.2
 Requires: xrootd-auth-change-uid >= 0.1.0
 
 %description
