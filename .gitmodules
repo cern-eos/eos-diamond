@@ -13,3 +13,6 @@
 [submodule "xrootd/cms"]
 	path = xrootd/cms
 	url = https://github.com/cern-eos/xrootd-diamond-cms.git
+[submodule "xrootd/cli"]
+	path = xrootd/cli
+	url = https://github.com/cern-eos/xrootd-client-plugin-radosfs.git
